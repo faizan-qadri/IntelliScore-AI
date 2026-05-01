@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "analysis-hero",
+      "description": "Abstract AI data analysis visualization",
+      "imageUrl": "https://picsum.photos/seed/analysis-ai/1200/600",
+      "imageHint": "ai data"
+    }
+  ]
+}
